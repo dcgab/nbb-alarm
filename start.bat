@@ -1,0 +1,1 @@
+C:\Projects\automation\fast_nbb_order\.venv\Scripts\activate.bat && C:\Projects\automation\fast_nbb_order\.venv\Scripts\python.exe C:\Projects\automation\fast_nbb_order\main.py

@@ -1,0 +1,1 @@
+START "" /B /MIN CMD /C CALL "start.bat"
